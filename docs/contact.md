@@ -21,5 +21,4 @@ United Kingdom
 If you are visiting the Real-Time Systems Research Group, we are based on the first floor of the main Department of Computer Science building on the Heslington East campus. Details about how to reach Heslington East can be found on the main departmental pages.
 
 ## Jobs
-PhD Studentships
-Research Positions
+PhD Studentships and Research Positions will be posted here.
