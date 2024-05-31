@@ -6,31 +6,49 @@ layout: home
 ---
 
 # Real-Time and Distributed Systems Group
-## Welcome to RTDS
+@ University of York, UK
 
-The Real-Time and Distributed Systems research group is concerned with fundamental and applied research into the development and analysis of systems where the distributed nature of the computation, the need for communication and coordination, and/or the timeliness of the system’s actions are of critical importance to the overall functionality and to the end-users.  
+## Welcome to RTDS Group!
 
-## Overview
-The Real-Time and Distributed Systems research group is concerned with fundamental and applied research into the development and analysis of systems where the distributed nature of the computation, the need for communication and coordination, and/or the timeliness of the system’s actions are of critical importance to the overall functionality and to the end-users.  The group’s research spans many areas, including embedded systems, Internet of Things (IoT), communications, robotics, automotive systems, large scale process control, avionics, distributed computing, and High-Performance Computing (HPC).
+Welcome to the web pages of the Real-Time Systems Research Group at York. The Group was established in 1990 and since then has undertaken research into all aspects of the design, implementation and analysis of real-time systems. These web pages will give you more details of our current research. We hope that you find them interesting and useful.
 
-Real-time systems are those that are required to respond to inputs within a finite and specified time interval. In some systems, the required response times are measured in milliseconds, in others it is seconds, minutes, or even hours. Nevertheless, they all have timing requirements that must be satisfied. In the production of real-time systems, it is insufficient to use testing of the final system to ensure its compliance with the requirements (as it is infeasible to test all possible timing interference patterns in a system of reasonable complexity). A comprehensive and systematic approach to specification, design, implementation and analysis is required.
+The group is structured around the interests of the permanent academic staff:
 
-Distributed systems are those that divide their workload across networked ‘nodes’ (e.g. processors, computers, embedded devices, robots), which coordinate their actions through message passing. These nodes may be tightly integrated via wired connections (e.g. High Performance Computing platforms), or loosely connected through wireless communication (e.g. IoT devices and robot swarms). Nodes can also be distributed across a variety of spatial scales, from cloud platforms with computation spread across international data centres, to devices located throughout a home, or even networked processors within a single silicon chip. This presents unique challenges in terms of programmability, coordination, communication, and fault tolerance, each demanding consideration of the distributed nature of the system.
-
-The research conducted by the Real-Time and Distributed Systems group is unified around the notions of understanding, modelling, analysing, simulating, optimising, and predicting the performance and use of systems that are real-time and/or distributed in nature.
-
-
-## Aims and Objectives
-To undertake fundamental research, and to bring into engineering practice modern techniques, methods and tools facilitating the design, construction, analysis, optimisation, and maintenance of distributed systems and application-specific systems that have real-time constraints.
-
-To investigate a wide range of topics associated with scheduling, timing analysis, modelling, simulation, performance optimisation, runtime environments, parallel programming models, communication protocols and hardware platforms, all of them tailored for performance-sensitive systems.
-
-To address the interdependencies between runtime performance and other requirements such as energy-efficiency, security, safety, and dependability.
+- [Prof. Alan Burns](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=burns)
+- [Prof. Iain J Bate](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=ijb)
+- [Dr. Ian Gray](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=iang)
+- [Dr. Steven Wright](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=saw)
+- [Dr. Poonam Yodav](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=yadav)
+- [Dr. Pengcheng Liu](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=liup)
+- [Dr. Chris Crispin-Bailey](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=chrisb)
+- [Dr. Xiaotian (Steven) Dai](https://www.xiaotiandai.com)
+- [Dr. John Oyekan](https://www.cs.york.ac.uk/people/joyekan)
 
 
-## Impact
-The group collaborates extensively with industry. It has been instrumental in the transfer of real-time systems research into commercial products in areas including automotive, aerospace, communications, manufacturing, and robotics, via interactions with large multinational companies, SMEs and start-ups. Recent project partners include Bosch, Rolls Royce, BAE, Airbus, Huawei, OAS, ETAS, Rapita, ONA and Electrolux. The group also works closely with scientists in the York Plasma Institute, the UK Atomic Energy Authority, UK AWE and the US Department of Energy, as well as engineers from vendors such as Intel, NVIDIA and ARM on projects in the HPC area.
+## What is Real-time?
 
-The group’s research output is highly valued by the academic community, with talks and publications featuring regularly in the top venues in the areas of real-time systems, communication and networks, robotics, and HPC.
+A system is defined as being real-time if it is required to respond to input stimuli within a finite and specified time interval. The stimuli being either an event at the interface to the system or some internal clock tick that is, at least notionally, coordinated with the passage of time in the system’s environment. Real-time systems are found in a wide range of applications areas, from simple domestic appliances to multimedia systems, large scale process control and safety critical avionics. In some systems the required response times are measured in milliseconds, in others it is seconds or even minutes. Nevertheless they all have deadlines that must be satisfied. In the production of real-time systems, it is insufficient to use testing of the final system to ensure its compliance with the timing requirements. A comprehensive and systematic approach to specification, design, implementation and analysis is required.
 
-Ultimately, the group’s research enables technologies and products that are more performant, predictable and resource-efficient. Increased performance enables step changes in scientific and engineering capability; predictability enables safety, providing society with technologies that are fit for purpose even under stringent requirements; resource-efficiency makes those technologies economically viable, and minimises their environmental footprint.
+## Areas of Activity
+
+The overall goal of the group is to facilitate the design, construction, analysis and maintenance of potentially complex systems which have real-time constraints. The work of the group spans a wide range of topics associated with timing analysis, system design, programming languages, operating system kernels, heterogeneous and reconfigurable hardware.
+
+## Projects and Funding
+
+Areas of application of our work include space and avionic systems, engine controllers, automobile control and multi-media systems. Work has been funded by the EPSRC and DTI, BAE SYSTEMS, European Union, European Space Agency (ESA), NASA, QinetiQ, Rolls Royce Aeroengines, DTI, the Health and Safety Executive (HSE), Sun Microsystems, Philips Research, Microsoft.
+
+Detailed presentations of selected projects can be found on the [Research Impact](/docs/research/impact.html) page.
+
+## Group Members
+
+Members of the group can be found on the [People](/docs/people.html) page.
+
+## Aim of the Group:
+
+To undertake fundamental research, and to bring into engineering practice modern techniques, methods and tools.
+
+- How can we design and build time-predictable systems using modern heterogeneous multicore architectures?
+- By what means can a system utilise free resources at run-time, to increase system utility, but still be guaranteed to meet its fundamental timing constraints?
+- Can a computational model for real-time systems be defined that is effective in terms of schedulability analysis, but can also be formally specified and implemented?
+- How can we implement, in combinations of software and hardware, complex real-time systems to meet timing and resource constraints?
+- To what extent can real-time systems be made architecture neutral?

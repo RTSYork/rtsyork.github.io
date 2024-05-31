@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Impact
+title: Research Impact
 nav_order: 5
-has_children: true
+parent: Research
+has_children: False
 ---
 
 # Impact Studies
