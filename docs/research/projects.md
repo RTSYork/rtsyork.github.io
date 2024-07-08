@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Projects
-nav_order: 2
+title: Research Projects
+parent: Research
+nav_order: 1
 has_children: true
 ---
 

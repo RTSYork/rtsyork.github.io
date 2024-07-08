@@ -7,13 +7,13 @@ has_children: false
 
 
 # Contact
-
 Contact Prof. Iain Bate for more information or research collaboration:
 
 **Prof. Iain J. Bate**  
 Email: *iain.bate (at) york.ac.uk*    
 Address:  
-Department of Computer Science, University of York  
+Department of Computer Science  
+University of York   
 Heslington, York  
 United Kingdom
 
