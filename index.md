@@ -7,7 +7,9 @@ nav_order: 1
 ---
 
 # Real-Time and Distributed Systems Group
-@ University of York, UK
+@ Department of Computer Science, University of York, United Kingdom
+
+![](assets\images\rtds_logo.png)
 
 ## Welcome to RTDS Group!
 

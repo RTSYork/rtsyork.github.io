@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: RTDS Group York
+title: RTDS York
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Real-Time and Distributed Systems research group is concerned with fundamental
@@ -38,11 +38,11 @@ plugins:
 nav_enabled: true
 
 # External navigation links
-nav_external_links:
-  - title: Just the Docs on GitHub
-    url: https://github.com/just-the-docs/just-the-docs
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+#nav_external_links:
+#  - title: Just the Docs on GitHub
+#    url: https://github.com/just-the-docs/just-the-docs
+#    hide_icon: false # set to true to hide the external link icon - defaults to false
+#    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
