@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   nature of the computation, the need for communication and coordination, and/or the
   timeliness of the system’s actions are of critical importance to the overall
   functionality and to the end-users.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/homepage-rtds" # the subpath of your site, e.g. /blog
+url: "https://automaticdai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
