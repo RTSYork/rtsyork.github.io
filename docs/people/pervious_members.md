@@ -13,7 +13,6 @@ has_children: false
 - Adrian McMenamin
 - Alan Grigg
 - Alex Wood
-- Alex Wood
 - Alexandros Zerzelidis
 - Ameet Patil
 - Amine Marref
@@ -38,7 +37,6 @@ has_children: false
 - David Griffin
 - David Scholefield
 - Divya Prasad
-- Emad Al-Oqayli
 - Emad Al-Oqayli
 - Erik Hu
 - Fengxiang Zhang

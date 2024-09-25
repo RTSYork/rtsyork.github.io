@@ -8,7 +8,7 @@ has_children: true
 # People
 ## Academic Staff
 - [Prof. Alan Burns](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=burns)
-- [Prof. Iain J. Bate](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=ijb)
+- [Prof. Iain Bate](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=ijb)
 - [Dr. Ian Gray](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=iang)
 - [Dr. Steven Wright](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=saw)
 - [Dr. Poonam Yodav](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=yadav)
@@ -22,7 +22,7 @@ has_children: true
 - [Dr. Robert Davis](https://www-users.york.ac.uk/~rd17/)
 - Dr. Jie Zou
 - Dr. Nan Chen
-- Ishfaq Hussain
+- Dr. Ishfaq Hussain
 - Mohit Bidikar
 - Dr. Kavan Fatehi
 - Dr. Nazrul Islam

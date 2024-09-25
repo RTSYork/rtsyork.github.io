@@ -18,7 +18,7 @@ Welcome to the web pages of the Real-Time Systems Research Group at York. The Gr
 The group is structured around the interests of the permanent academic staff:
 
 - [Prof. Alan Burns](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=burns)
-- [Prof. Iain J Bate](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=ijb)
+- [Prof. Iain Bate](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=ijb)
 - [Dr. Ian Gray](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=iang)
 - [Dr. Steven Wright](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=saw)
 - [Dr. Poonam Yodav](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=yadav)
