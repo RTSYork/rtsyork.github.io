@@ -7,6 +7,9 @@ has_children: false
 ---
 
 # Previous Members
+
+A list of our previous staffs/students/visitors, ordered by first name:
+
 - Abdul Haseeb Malik
 - Adam Betts
 - Adam Craggs

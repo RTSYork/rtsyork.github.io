@@ -7,9 +7,15 @@ has_children: true
 ---
 
 # Research Projects
-## Ongoing Projects
+## Current Projects
 - SCHEME
-- CHEDAR
+- Hybrid Critical Multi-Core Heterogeneous Parallel Scheduling Framework
+- CHEDDAR
+- DigiCORTEX
+- Real-time data quality analysis and control for aquaculture prawn farming management
+- Machine Learning for Robotic Deformable Object Manipulation
+- EPOC++
+- NanoMan
 
 ## Past Projects
 - MOCHA
