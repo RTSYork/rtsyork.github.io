@@ -26,3 +26,5 @@ The group is structured around the interests of the permanent academic staff:
 - [Dr. Chris Crispin-Bailey](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=chrisb)
 - [Dr. Xiaotian (Steven) Dai](https://www.xiaotiandai.com)
 - [Dr. John Oyekan](https://www.cs.york.ac.uk/people/joyekan)
+
+![](assets\images\rts_photo_2024.jpg)
