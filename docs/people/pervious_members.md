@@ -181,7 +181,7 @@ Here is the list with names ordered alphabetically by **first name** within each
 
 ## W
 - Alex Wood
-- Andy Welling
+- Andy Wellings
 - Haobo Wang
 - Haitong Wang
 - Hing Choi Wong
