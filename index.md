@@ -17,14 +17,16 @@ Welcome to the web pages of the Real-Time Systems Research Group at York. The Gr
 
 The group is structured around the interests of the permanent academic staff:
 
-- [Prof. Alan Burns](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=burns)
-- [Prof. Iain Bate](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=ijb)
+- [Prof. Iain Bate](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=ijb) (Group Lead)
+- [Dr. Robert Davis](https://www-users.york.ac.uk/~rd17/)
 - [Dr. Ian Gray](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=iang)
+- [Dr. Xiaotian (Steven) Dai](https://www.xiaotiandai.com)
 - [Dr. Steven Wright](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=saw)
 - [Dr. Poonam Yodav](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=yadav)
 - [Dr. Pengcheng Liu](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=liup)
 - [Dr. Chris Crispin-Bailey](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=chrisb)
-- [Dr. Xiaotian (Steven) Dai](https://www.xiaotiandai.com)
 - [Dr. John Oyekan](https://www.cs.york.ac.uk/people/joyekan)
+- [Prof. Alan Burns](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=burns) (Emeritus)
+- [Prof. Andy Wellings](https://scholar.google.co.uk/citations?user=yPa4QrkAAAAJ&hl=en) (Emeritus)
 
 ![](assets\images\rts_photo_2024.jpg)

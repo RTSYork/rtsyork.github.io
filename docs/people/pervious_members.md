@@ -8,152 +8,207 @@ has_children: false
 
 # Previous Members
 
-A list of our previous staffs/students/visitors, ordered by first name:
+A list of our previous staffs/students/visitors.
 
-- Abdul Haseeb Malik
+Here is the list with names ordered alphabetically by **first name** within each section:
+
+## A
+- Armando Aguilar-Soto
+- Emad Al-Oqayli
+- Hesham Almatary
+- Issam Alnader
+- Mohammed Al Rahmawy
+- Neil Audsley
+- Saud Aldarmi (aldarmi at hotmail.com)
+- Simon Atkinson (smona at padd.press.net)
+- Thamer Alrefai
+
+## B
 - Adam Betts
-- Adam Craggs
-- Adrian McMenamin
-- Alan Grigg
-- Alex Wood
-- Alexandros Zerzelidis
-- Ameet Patil
-- Amine Marref
-- Amit Singh
-- Ana Cavalcanti
+- Alan Burns
 - Andrew Borg
 - Andrew Burkimsher
-- Andy Evans
-- Andy Hutcheon
+- Guillem Bernat-Nicholau
+- Ian Broster
+- Jeong Young Byun
+- Konstantinos Bletsas
+- Ljerka Beus-Dukic (ljerka.beus at unn.ac.uk)
+- Mark Bartlett
+- Michael Bennett
+- Nahal Memar Kocheh Bagh
+- Rachel Baker
+- Ross Brown
+
+## C
+- Adam Craggs
+- Ana Cavalcanti
 - Antoine Colin
-- Areej Zuhily
-- Armando Aguilar-Soto
-- Ashok Kefur
-- Attila Zabos (attila.zabos at googlemail.com)
-- Benjamin Lesage
-- Bharath Sudev
-- Charles McElhone
-- Chris Holmes
+- Glenn Coates
+- Guanqun Cao
+- Hao Cai
+- Ipek Caliskanelli
+- Jing Chen (jchen at mail.ncku.edu.tw)
+- Lei Chen
+- Marcelin Fortes da Cruz
+- Pete Cornwell (pcornwell at reusebusiness.com)
+- Ray Cheshmehdoost
+- Steven Crook-Dawkins
+- Suria Chuprat
+- Wanli Chang
+- Yang Chang
+- Yan-Ching Chu
+- Yu Chan
+- Rod Chapman (rod at praxis-cs.co.uk)
+
+## D
+- Pan Dong
+- Piotr Dziurzanski
+
+## E
+- Andy Evans
 - Christos Evripidou
-- Darren Priddin
+- Stewart Edgar
+
+## F
+- Gricel Vazquez Flores
+- Keiko Fonseca
+- Mark L Fairbairn
+- Simon Fowler (simonf at praxis-cs.co.uk)
+- Thomas Fleming
+- Xinwei Fang
+
+## G
+- Alan Grigg
 - Dave George
 - David Griffin
-- David Scholefield
-- Divya Prasad
-- Emad Al-Oqayli
-- Erik Hu
-- Fengxiang Zhang
-- Frank Soboczenski
-- Gabor Makrai
-- Gareth Andrew Lloyd
-- Gary Plumbridge
-- George Lima
-- Glenn Coates
-- Greg Murphy
-- Guillem Bernat-Nicholau
-- Haitao Mei
-- Haitong Wang
-- Hao Cai
-- Hao Xu
-- Hashan Roshantha Mendis
 - Hashem Ghazzawi
-- Hesham Almatary
-- Hing Choi Wong
-- Hui Keng Lau (Kelvin)
-- Ian Broster
-- Ioanna Symeou
-- Ipek Caliskanelli
-- Issam Alnader
-- Jack Whitham
-- Jagun Kwon
-- James Harbin
-- James Willans
 - Jamie Garside
-- Jeong Young Byun
-- Jim Woodcock
-- Jing Chen (jchen at mail.ncku.edu.tw)
-- Jm Montanana Aliaga
-- Jonathan Rainer
-- Jonathan Tate (jt at jonathantate.net)
-- Ke Yu (yukepost at hotmail.com)
-- Keiko Fonseca
-- Ken Tindell
-- Konstantinos Bletsas
-- Kun Wei
-- Lei Chen
-- Leonid Timochouk
+- Jiale Ge
 - Lokesh Golla
-- Ljerka Beus-Dukic (ljerka.beus at unn.ac.uk)
-- Marcelin Fortes da Cruz
-- Marios Piveropoulos (mariopiver at hotmail.com)
-- Mark Bartlett
-- Mark L Fairbairn
-- Mark Nicholson
-- Matthew Naylor
-- Michael Bennett
-- Michael Ward
-- Mike Richardson
-- Mohammed Al Rahmawy
-- Muhammad Zubair
-- Nan Chen
 - Nicholas Gasson
-- Nick Lay
-- Ning Zhang
-- Norazizi Sayuti
 - Oliver Gettings
-- Osmar Marchi dos Santos
-- Paris Mesidis
-- Pat Rogers
-- Paul Sammut
-- Paul Usher
-- Paulo Pedro
-- Pete Cornwell (pcornwell at reusebusiness.com)
-- Peter Lewis
-- Peter Woolley
-- Piotr Dziurzanski
-- Qui Jiancheng
-- Rachel Baker
-- Ralf Reiutemann
-- Ray Cheshmehdoost
-- Rod Chapman (rod at praxis-cs.co.uk)
-- Rod White (rod at thehassocks.plus.com)
-- Ross Brown
 - Rui Gao
-- Rui Tu
+
+## H
+- Andy Hutcheon
+- Chris Holmes
+- Erik Hu
+- Ishfaq Hussain
+- James Harbin
+
+## I
+- Leandro Soares Indrusiak
+
+## J
 - Russell Joyce
-- Salvatore Scafadi Polino
-- Samuel Jimenez Gil
-- Sasikumar Punnekkat (spt at idt.mdh.se)
-- Saud Aldarmi (aldarmi at hotmail.com)
+- Zhe Jiang
+
+## K
+- Ashok Kefur
+- Jagun Kwon
 - Se-Yeon Kim
-- Shiyao Lin (Charlie)
-- Shuai Zhao
-- Sijing Zhang (sijing.zhang at luton.ac.uk)
-- Simon Atkinson (smona at padd.press.net)
-- Simon Fowler (simonf at praxis-cs.co.uk)
-- Sitsofe Wheeler
-- Stefan Petters
-- Stephen Law
-- Steven Crook-Dawkins
-- Stewart Edgar
-- Stuart Mitchell
-- Suria Chuprat
-- Thamer Alrefai
 - Thanoo Kungwanchai
-- Thomas Fleming
-- Thomas Richardson
+- Usman Khan
+
+## L
+- Benjamin Lesage
+- Gareth Andrew Lloyd
+- Hui Keng Lau (Kelvin)
+- Nick Lay
+- Peter Lewis
+- Shiyao Lin (Charlie)
+- Stephen Law
 - Tiong Hoo Lim
 - Tse-Min Lin
-- Usman Khan
 - Vicente Lorente
-- Wanli Chang
 - William Lunniss
-- William Walker
-- Xiaotian Dai
-- Xinwei Fang
-- Yan-Ching Chu
-- Yang Chang
-- Yu Chan
+
+## M
+- Abdul Haseeb Malik
+- Amine Marref
+- Charles McElhone
+- Gabor Makrai
+- Greg Murphy
+- Haitao Mei
+- Hashan Roshantha Mendis
+- Paris Mesidis
+- Stuart Mitchell
 - Yunfeng Ma
-- Zhe Jiang
+- Adrian McMenamin
+
+## N
+- Mark Nicholson
+- Matthew Naylor
+- Ning Zhang
+
+## P
+- Ameet Patil
+- Darren Priddin
+- Divya Prasad
+- Gary Plumbridge
+- Marios Piveropoulos (mariopiver at hotmail.com)
+- Paulo Pedro
+- Sasikumar Punnekkat (spt at idt.mdh.se)
+- Stefan Petters
+
+## R
+- Jonathan Rainer
+- Mike Richardson
+- Pat Rogers
+- Ralf Reiutemann
+- Thomas Richardson
+
+## S
+- Amit Singh
+- Bharath Sudev
+- David Scholefield
+- Frank Soboczenski
+- Ioanna Symeou
+- Norazizi Sayuti
+- Osmar Marchi dos Santos
+- Paul Sammut
+- Salvatore Scafadi Polino
 - Zheng Shi (John)
+
+## T
+- Jonathan Tate (jt at jonathantate.net)
+- Ken Tindell
+- Leonid Timochouk
+- Rui Tu
+
+## U
+- Paul Usher
+
+## W
+- Alex Wood
+- Andy Wellings
+- Haobo Wang
+- Haitong Wang
+- Hing Choi Wong
+- Jack Whitham
+- James Willans
+- Jim Woodcock
+- Kun Wei
+- Michael Ward
+- Peter Woolley
+- Rod White (rod at thehassocks.plus.com)
+- Sitsofe Wheeler
+- William Walker
+
+## X
+- Hao Xu
+
+## Y
+- Ke Yu (yukepost at hotmail.com)
+
+## Z
+- Alexandros Zerzelidis
+- Attila Zabos (attila.zabos at googlemail.com)
+- Fengxiang Zhang
+- Fuyue Zhao
+- Jie Zou
+- Muhammad Zubair
+- Ning Zhang
+- Shuai Zhao
+- Sijing Zhang (sijing.zhang at luton.ac.uk)
+- Areej Zuhily

@@ -10,12 +10,17 @@ has_children: true
 ## Current Projects
 - SCHEME
 - Hybrid Critical Multi-Core Heterogeneous Parallel Scheduling Framework
-- CHEDDAR
+- [CHEDDAR](https://cheddarhub.org/)
 - DigiCORTEX
-- Real-time data quality analysis and control for aquaculture prawn farming management
 - Machine Learning for Robotic Deformable Object Manipulation
-- EPOC++
 - NanoMan
+- [EPOC++](https://warwick-plasma.github.io/EPOCpp/): a future-proofed kinetic simulation code for plasma physics at exascale
+- [ExCALIBUR Fusion Use Case](https://excalibur.ac.uk/projects/excalibur-fusion-use-case-project-neptune-neutrals-plasma-turbulence-numerics-for-the-exascale/): Project NEPTUNE (NEutrals & Plasma TUrbulence Numerics for the Exascale)
+- Real-time data quality analysis and control for aquaculture prawn farming management
+- Intelligent Dependable Environment Control For Sustainable Aquaculture
+- REMOTE: Resilient and Secure Multi-Access Interoperable Communication Fabric for TinyEdge
+- REACH
+
 
 ## Past Projects
 - MOCHA

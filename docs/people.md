@@ -6,21 +6,20 @@ has_children: true
 ---
 
 # People
-## Academic Staff
-- [Prof. Alan Burns](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=burns)
+## Group Lead
 - [Prof. Iain Bate](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=ijb)
+
+## Academic Staff
+- [Dr. Robert Davis](https://www-users.york.ac.uk/~rd17/)
 - [Dr. Ian Gray](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=iang)
+- [Dr. Xiaotian (Steven) Dai](https://www.xiaotiandai.com)
 - [Dr. Steven Wright](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=saw)
 - [Dr. Poonam Yodav](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=yadav)
 - [Dr. Pengcheng Liu](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=liup)
 - [Dr. Chris Crispin-Bailey](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=chrisb)
-- [Dr. Xiaotian (Steven) Dai](https://www.xiaotiandai.com)
 - [Dr. John Oyekan](https://www.cs.york.ac.uk/people/joyekan)
 
-
 ## Research Staff
-- [Dr. Robert Davis](https://www-users.york.ac.uk/~rd17/)
-- Dr. Jie Zou
 - Dr. Nan Chen
 - Dr. Ishfaq Hussain
 - Mohit Bidikar
@@ -31,7 +30,6 @@ has_children: true
 - Andrew Naden
 - James O'Keeffe
 - Dr. Rana Sohaib
-
 
 ## Research Students
 - Bashar Al-Ani
@@ -50,10 +48,9 @@ has_children: true
 - Shibao Yang
 - Xiaoliang Zhang
 
-
 ## Emeritus
-- Prof. Andy Wellings
-
+- [Prof. Alan Burns](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=burns)
+- [Prof. Andy Wellings](https://scholar.google.co.uk/citations?user=yPa4QrkAAAAJ&hl=en)
 
 ## Alumni
 - Neil Audsley
