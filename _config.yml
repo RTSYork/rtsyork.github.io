@@ -32,8 +32,8 @@ twitter_username: rtsyork
 github_username:  RTSYork
 
 # Build settings
-#theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+# remote_theme: just-the-docs/just-the-docs
 
 # Custom CSS
 sass:
