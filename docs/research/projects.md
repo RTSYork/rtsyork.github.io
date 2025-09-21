@@ -23,8 +23,8 @@ has_children: true
 
 
 ## Past Projects
-- MOCHA
-- SAFIRE
+- MOCHA: Modelling and Optimising Complex Heterogeneous Architecture
+- SAFIRE: Cloud-based Situational Analysis for Factories providing Real-time Reconfiguration Services
 - MCCps
 - STRATA
 - CAPACITIE
