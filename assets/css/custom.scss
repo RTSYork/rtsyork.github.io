@@ -1,0 +1,217 @@
+---
+---
+
+@import "just-the-docs";
+
+// Custom styles for RTDS website
+
+// Quick links styling
+.quick-link-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h4 {
+    margin-top: 0;
+    color: #0366d6;
+  }
+  
+  a {
+    color: #0366d6;
+    text-decoration: none;
+    font-weight: 500;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// News timeline styling
+.news-timeline {
+  h3 {
+    color: #586069;
+    border-bottom: 2px solid #e1e4e8;
+    padding-bottom: 0.5rem;
+    margin-top: 2rem;
+    
+    &:first-child {
+      margin-top: 1rem;
+    }
+  }
+  
+  ul {
+    padding-left: 1.5rem;
+    
+    li {
+      margin-bottom: 0.5rem;
+      
+      strong {
+        color: #0366d6;
+      }
+    }
+  }
+}
+
+// Enhanced staff list styling
+.staff-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+  
+  .staff-member {
+    padding: 1rem;
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    background: #f6f8fa;
+    
+    .name {
+      font-weight: 600;
+      color: #0366d6;
+      margin-bottom: 0.25rem;
+    }
+    
+    .title {
+      color: #586069;
+      font-size: 0.9em;
+    }
+    
+    .role {
+      color: #28a745;
+      font-size: 0.85em;
+      font-weight: 500;
+    }
+  }
+}
+
+// Responsive video embeds
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; // 16:9 aspect ratio
+  
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    border-radius: 6px;
+  }
+}
+
+// Enhanced call-to-action buttons
+.cta-button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: #0366d6;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+  
+  &:hover {
+    background-color: #0256cc;
+    color: white;
+    text-decoration: none;
+  }
+  
+  &.secondary {
+    background-color: #f6f8fa;
+    color: #0366d6;
+    border: 1px solid #d1d5da;
+    
+    &:hover {
+      background-color: #e1e4e8;
+    }
+  }
+}
+
+// Research highlight cards
+.research-highlight {
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  background: linear-gradient(135deg, #f6f8fa 0%, #ffffff 100%);
+  
+  h3 {
+    margin-top: 0;
+    color: #0366d6;
+  }
+  
+  .research-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+    
+    .tag {
+      background-color: #e1e4e8;
+      color: #586069;
+      padding: 0.25rem 0.5rem;
+      border-radius: 3px;
+      font-size: 0.8em;
+      font-weight: 500;
+    }
+  }
+}
+
+// Two-column layout for previous members
+.two-column-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin: 2rem 0;
+  
+  .column-left,
+  .column-right {
+    // Ensure proper spacing between sections
+    h2 {
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+      
+      &:first-child {
+        margin-top: 0;
+      }
+    }
+    
+    // Style the list items
+    ul {
+      margin-bottom: 1.5rem;
+      
+      li {
+        margin-bottom: 0.25rem;
+        line-height: 1.4;
+      }
+    }
+  }
+}
+
+// Mobile responsiveness improvements
+@media (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: 1fr !important;
+  }
+  
+  .staff-list {
+    grid-template-columns: 1fr;
+  }
+  
+  .quick-link-card {
+    margin-bottom: 1rem;
+  }
+  
+  .two-column-layout {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+
