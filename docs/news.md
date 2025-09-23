@@ -1,7 +1,7 @@
 ---
 layout: default
 title: News
-nav_order: 1
+nav_order: 2
 has_children: false
 ---
 
@@ -9,14 +9,10 @@ has_children: false
 
 ## Latest Updates
 
-<div class="news-timeline">
-
-### 2025
-- **23 Sep 2025**: RTDS group holds the first meeting of academic year 2024/25.
+- **23 Sep 2025**: RTDS group holds the first meeting of academic year 2024/25. The group welcomed new PhD students and discussed upcoming research projects.
 - **15 Sep 2025**: 🎓 **PhD and PostDoc Positions Available** - We have exciting opportunities for researchers to join our team. Details can be found [here](https://cs.york.ac.uk/rtds).
 - **1 Sep 2025**: 🌐 **New RTDS Website Launch** - Our redesigned website is now online with improved navigation and updated content.
 
-</div>
 
 ## Upcoming Events
 

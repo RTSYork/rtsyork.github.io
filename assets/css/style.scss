@@ -28,29 +28,42 @@
   }
 }
 
-// News timeline styling
+// Simple news styling - no complex timeline
 .news-timeline {
-  h3 {
-    color: #586069;
-    border-bottom: 2px solid #e1e4e8;
-    padding-bottom: 0.5rem;
-    margin-top: 2rem;
-    
-    &:first-child {
-      margin-top: 1rem;
-    }
-  }
+  margin: 2rem 0;
   
   ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  li {
+    margin-bottom: 1rem;
     padding-left: 1.5rem;
-    
-    li {
-      margin-bottom: 0.5rem;
-      
-      strong {
-        color: #0366d6;
-      }
-    }
+    position: relative;
+    line-height: 1.6;
+  }
+  
+  li::before {
+    content: '•';
+    color: #0366d6;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+  }
+  
+  strong {
+    color: #0366d6;
+    font-weight: 600;
+  }
+  
+  a {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
   }
 }
 
@@ -164,30 +177,115 @@
 
 // Two-column layout for previous members
 .two-column-layout {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
-  margin: 2rem 0;
+  display: grid !important;
+  grid-template-columns: 1fr 1fr !important;
+  gap: 2rem !important;
+  margin: 2rem 0 !important;
+  width: 100% !important;
   
   .column-left,
   .column-right {
+    min-width: 0; // Prevent grid overflow
+    
     // Ensure proper spacing between sections
     h2 {
-      margin-top: 2rem;
-      margin-bottom: 1rem;
+      margin-top: 2rem !important;
+      margin-bottom: 1rem !important;
+      color: #24292e !important;
       
       &:first-child {
-        margin-top: 0;
+        margin-top: 0 !important;
       }
     }
     
     // Style the list items
     ul {
-      margin-bottom: 1.5rem;
+      margin-bottom: 1.5rem !important;
+      padding-left: 1.5rem !important;
       
       li {
-        margin-bottom: 0.25rem;
-        line-height: 1.4;
+        margin-bottom: 0.25rem !important;
+        line-height: 1.4 !important;
+        list-style-type: disc !important;
+      }
+    }
+  }
+}
+
+// Impact study styling
+.impact-study {
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 2rem 0;
+  background: linear-gradient(135deg, #f6f8fa 0%, #ffffff 100%);
+  
+  h3 {
+    margin-top: 0;
+    color: #0366d6;
+    border-bottom: 2px solid #e1e4e8;
+    padding-bottom: 0.5rem;
+  }
+  
+  .video-container {
+    margin: 1.5rem 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  p {
+    margin-bottom: 0.75rem;
+    line-height: 1.6;
+    
+    strong {
+      color: #0366d6;
+    }
+  }
+  
+  a {
+    color: #0366d6;
+    text-decoration: none;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// Achievements grid
+.achievements-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+  
+  .achievement-card {
+    background: linear-gradient(135deg, #f6f8fa 0%, #ffffff 100%);
+    border: 1px solid #e1e4e8;
+    border-radius: 8px;
+    padding: 1.5rem;
+    text-align: center;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    
+    h4 {
+      margin-top: 0;
+      margin-bottom: 1rem;
+      color: #0366d6;
+      font-size: 1.1em;
+    }
+    
+    p {
+      margin-bottom: 0;
+      color: #586069;
+      
+      strong {
+        color: #0366d6;
       }
     }
   }
