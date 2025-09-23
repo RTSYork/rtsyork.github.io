@@ -12,9 +12,6 @@ A list of our previous staffs/students/visitors.
 
 Here is the list with names ordered alphabetically by **first name** within each section:
 
-<div class="two-column-layout">
-
-<div class="column-left">
 
 ## A
 - Armando Aguilar-Soto
@@ -127,10 +124,6 @@ Here is the list with names ordered alphabetically by **first name** within each
 - Vicente Lorente
 - William Lunniss
 
-</div>
-
-<div class="column-right">
-
 ## M
 - Abdul Haseeb Malik
 - Amine Marref
@@ -220,7 +213,3 @@ Here is the list with names ordered alphabetically by **first name** within each
 - Shuai Zhao
 - Sijing Zhang (sijing.zhang at luton.ac.uk)
 - Areej Zuhily
-
-</div>
-
-</div>

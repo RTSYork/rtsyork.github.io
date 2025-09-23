@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-nav_order: 6
+title: About RTDS
+nav_order: 7
 has_children: false
 ---
 

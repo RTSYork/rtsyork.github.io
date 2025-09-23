@@ -42,6 +42,12 @@ Our research spans embedded systems, IoT, robotics, automotive systems, avionics
 </div>
 
 <div class="quick-link-card" style="padding: 1rem; border: 1px solid #e1e4e8; border-radius: 6px; background: #f6f8fa;">
+<h4>🎯 Research Impact</h4>
+<p>Discover how our research has transformed industries worldwide.</p>
+<a href="/docs/research/impact/">View Impact →</a>
+</div>
+
+<div class="quick-link-card" style="padding: 1rem; border: 1px solid #e1e4e8; border-radius: 6px; background: #f6f8fa;">
 <h4>📞 Contact</h4>
 <p>Get in touch for collaboration opportunities and inquiries.</p>
 <a href="/docs/contact/">Contact Us →</a>

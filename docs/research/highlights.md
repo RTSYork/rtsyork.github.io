@@ -11,7 +11,7 @@ has_children: false
 ## Featured Research Areas
 
 <div class="research-highlight">
-<h3>🚗 Automotive Real-Time Systems</h3>
+<h3> Automotive Real-Time Systems</h3>
 <p>Our research in automotive systems focuses on guaranteeing real-time performance in in-vehicle networks. We work with industry partners like Bosch and Rolls Royce to develop timing analysis techniques that ensure critical safety functions meet their deadlines.</p>
 <div class="research-tags">
 <span class="tag">Real-Time Scheduling</span>
@@ -21,7 +21,7 @@ has_children: false
 </div>
 
 <div class="research-highlight">
-<h3>🤖 Swarm Robotics</h3>
+<h3> Swarm Robotics</h3>
 <p>We investigate coordination algorithms for robot swarms, enabling large numbers of robots to work together effectively while maintaining real-time constraints. This research has applications in search and rescue, environmental monitoring, and warehouse automation.</p>
 <div class="research-tags">
 <span class="tag">Distributed Algorithms</span>
@@ -31,7 +31,7 @@ has_children: false
 </div>
 
 <div class="research-highlight">
-<h3>⚡ High-Performance Computing</h3>
+<h3> High-Performance Computing</h3>
 <p>Our HPC research focuses on real-time constraints in high-performance computing environments. We work with partners like Intel, NVIDIA, and ARM to optimize performance while maintaining predictable timing behavior.</p>
 <div class="research-tags">
 <span class="tag">HPC</span>
@@ -41,7 +41,7 @@ has_children: false
 </div>
 
 <div class="research-highlight">
-<h3>🌐 Internet of Things (IoT)</h3>
+<h3> Internet of Things (IoT)</h3>
 <p>IoT systems require careful consideration of both real-time constraints and distributed coordination. Our research addresses challenges in IoT deployments, from smart homes to industrial automation.</p>
 <div class="research-tags">
 <span class="tag">IoT Networks</span>

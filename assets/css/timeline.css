@@ -1,0 +1,79 @@
+/* Timeline styles for news page */
+.news-timeline {
+  margin: 2rem 0;
+  position: relative;
+  padding-left: 2rem;
+}
+
+.news-timeline::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(to bottom, #0366d6, #e1e4e8);
+  border-radius: 2px;
+}
+
+.news-timeline h3 {
+  color: #0366d6;
+  border-bottom: 2px solid #e1e4e8;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+  font-size: 1.25em;
+  position: relative;
+}
+
+.news-timeline h3:first-child {
+  margin-top: 0;
+}
+
+.news-timeline h3::before {
+  content: '●';
+  color: #0366d6;
+  font-size: 1.2em;
+  position: absolute;
+  left: -2rem;
+  top: 0;
+}
+
+.news-timeline ul {
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+  list-style-type: none;
+}
+
+.news-timeline li {
+  margin-bottom: 0.75rem;
+  line-height: 1.5;
+  position: relative;
+}
+
+.news-timeline li::before {
+  content: '▸';
+  color: #0366d6;
+  font-weight: bold;
+  position: absolute;
+  left: -1.5rem;
+}
+
+.news-timeline strong {
+  color: #0366d6;
+  font-weight: 600;
+}
+
+.news-timeline em {
+  color: #586069;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.news-timeline a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.news-timeline a:hover {
+  text-decoration: underline;
+}
